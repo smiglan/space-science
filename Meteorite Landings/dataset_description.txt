@@ -1,0 +1,16 @@
+This comprehensive data set from The Meteoritical Society contains information on all of the known meteorite landings. The Fusion Table is collected by Javier de la Torre and we've also provided an XLS file that consists of 34,513 meteorites and includes the following fields:
+place
+type_of_meteorite
+mass_g
+fell_found
+year
+database
+coordinate_1
+coordinates_2
+cartodb_id
+created_at
+updated_at
+year_date
+longitude
+latitude
+geojson
